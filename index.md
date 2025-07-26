@@ -8,3 +8,6 @@ I committed changes
 ```
 MY CAT
 ```
+- [x] Cat
+- [ ] Lazy
+- [x] Cute
